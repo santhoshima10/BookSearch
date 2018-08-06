@@ -5,6 +5,9 @@
 
 <img width="418" alt="screen shot 2018-08-02 at 6 42 26 pm" src="https://user-images.githubusercontent.com/25735215/43627514-8bc6f900-96ab-11e8-9037-5fad709b6b63.png">
 
+ICONS: https://icons8.com/icon/new-icons/all
+
+
 CRITERIA
 MEETS SPECIFICATIONS
 Overall Layout
